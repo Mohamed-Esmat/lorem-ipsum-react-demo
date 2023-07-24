@@ -14,6 +14,7 @@ This project showcases the power of React and the creative use of state manageme
 - [Implementation Details](#implementation-details)
 - [Array.slice()](#arrayslice)
 - [nanoid](#nanoid)
+- [Demo](#demo)
 - [Contact](#contact)
 - [License](#license)
 - [Acknowledgments](#acknowledgments)
@@ -105,7 +106,7 @@ console.log(id); // Output: "Uakgb_J5m9g-0JDMbcJqL"
 
 Witness the enchanting carousel in action! Experience the live demo by following the link below:
 
-[Live Demo](https://carousel-demo-esmat.netlify.app/)
+[Live Demo](https://lorem-ipsum-react-demo-esmat.netlify.app/)
 
 
 ## John Smilga React Course
